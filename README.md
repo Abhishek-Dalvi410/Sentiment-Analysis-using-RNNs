@@ -2,4 +2,4 @@
 
 Main Reference:-
 
-Ben Trevett, pytorch-sentiment-analysis, https://github.com/bentrevett/pytorch-sentiment-analysis
+**Ben Trevett, pytorch-sentiment-analysis, https://github.com/bentrevett/pytorch-sentiment-analysis**
